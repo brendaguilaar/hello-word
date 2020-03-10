@@ -1,2 +1,5 @@
 # hello-word
-Primer prueba con git-hub
+
+Hola, mi nombre es Brenda,
+esta es la primer prueba con Git-hub.
+
